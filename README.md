@@ -5,3 +5,4 @@ Projects:
 * [To-Do List App✅](https://github.com/bleudo/JavaScript-Projects/tree/main/ToDoListApp)
 * [QuizApp ❌✔](https://github.com/bleudo/JavaScript-Projects/tree/main/QuizApp)
 * [Random Password Generator🔑](https://github.com/bleudo/JavaScript-Projects/tree/main/Random-Password-Generator)
+* [NotesApp 📝](https://github.com/bleudo/JavaScript-Projects/tree/main/NotesApp)
