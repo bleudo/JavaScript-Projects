@@ -9,3 +9,4 @@ Projects:
 * [AgeCalculator📅](https://github.com/bleudo/JavaScript-Projects/commit/c58c833dda4507dde90abd13afb8a11dd73a0c4e)
 * [DiceGame🎲](https://github.com/bleudo/JavaScript-Projects/tree/main/DiceGame)
 * [SimonGame🕹](https://github.com/bleudo/JavaScript-Projects/tree/main/SimonGame)
+* [QuoteGenerator✍](https://github.com/bleudo/JavaScript-Projects/tree/main/QuoteGenerator)
