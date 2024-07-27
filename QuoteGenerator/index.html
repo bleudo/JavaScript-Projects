@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quote of the day</title>
+    <link href="styles.css" rel="stylesheet">
+</head>
+<body>
+    <div class="quote-box">
+        <h2>Quote of the day</h2>
+        <blockquote id="quote">Loading...</blockquote>
+        <span id="author">Loading...</span>
+        <div>
+            <button onclick="getRandomQuote()">New Quote</button>
+            <button id="twitterButton" onclick="tweet()"><img src="https://cdn.iconscout.com/icon/free/png-256/free-twitter-x-icon-download-in-svg-png-gif-file-formats--logo-social-media-logos-pack-icons-7740647.png?f=webp&w=256">Tweet</button>
+        </div>
+    </div>
+    <script>
+
+const quote = document.getElementById("quote");
+const author = document.getElementById("author");
+
+const quotes = [
+  "The best way to predict the future is to create it.",
+  "You miss 100% of the shots you don't take.",
+  "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+  "To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.",
+  "Don't watch the clock; do what it does. Keep going.",
+  "Do what you can, with what you have, where you are.",
+  "Success usually comes to those who are too busy to be looking for it.",
+  "You can't go back and change the beginning, but you can start where you are and change the ending."
+];
+
+function getRandomQuote() {
+    const randomIndex = Math.floor(Math.random() * quotes.length);
+    const selectedQuote = quotes[randomIndex];
+    quote.innerHTML = selectedQuote;
+    author.innerHTML = "Alexandra Veritas";
+}
+
+console.log(getRandomQuote());
+
+function tweet(){
+    window.open("https://twitter.com/intent/tweet?text=" + quote.innerHTML + "--- by " + author.innerHTML, "Tweet Window", "width=600, height=300")
+}
+
+    </script>
+</body>
+</html>
