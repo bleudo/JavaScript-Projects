@@ -10,3 +10,4 @@ Projects:
 * [DiceGame🎲](https://github.com/bleudo/JavaScript-Projects/tree/main/DiceGame)
 * [SimonGame🕹](https://github.com/bleudo/JavaScript-Projects/tree/main/SimonGame)
 * [QuoteGenerator✍](https://github.com/bleudo/JavaScript-Projects/tree/main/QuoteGenerator)
+* [QRCode Generator](https://github.com/bleudo/JavaScript-Projects/tree/main/QRCode%20Generator)
