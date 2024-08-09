@@ -11,4 +11,4 @@ Projects:
 * [SimonGame🕹](https://github.com/bleudo/JavaScript-Projects/tree/main/SimonGame)
 * [QuoteGenerator✍](https://github.com/bleudo/JavaScript-Projects/tree/main/QuoteGenerator)
 * [QRCode Generator](https://github.com/bleudo/JavaScript-Projects/tree/main/QRCode%20Generator)
-* [Notification bar](https://github.com/bleudo/JavaScript-Projects/tree/main/Notification%20Bar)
+* [Notification bar🔔](https://github.com/bleudo/JavaScript-Projects/tree/main/Notification%20Bar)
