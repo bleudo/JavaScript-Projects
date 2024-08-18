@@ -13,3 +13,4 @@ Projects:
 * [QRCode Generator](https://github.com/bleudo/JavaScript-Projects/tree/main/QRCode%20Generator)
 * [Notification bar🔔](https://github.com/bleudo/JavaScript-Projects/tree/main/Notification%20Bar)
 * [StopWatch⌚](https://github.com/bleudo/JavaScript-Projects/tree/main/Stopwatch)
+* [CalculatorApp](https://github.com/bleudo/JavaScript-Projects/tree/main/CalculatorApp)
